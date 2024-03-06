@@ -8,5 +8,5 @@ Behavioral Ponzo illusion and local/global metacognition performance dataset des
 - basic_stats.R: Basic statistical results (Figs. 2 & 3)
 - ML_PCA.R: Machine learning using relaxed elastic net and PCA (Figs. 4 & 5)
 - subfunctions.R: Subfunctions
-- words.txt: Words used for superiority ratings (in Japanese)
 - words_en.txt: Words used for superiority ratings (in English)
+- words_jp.txt: Words used for superiority ratings (in Japanese)
